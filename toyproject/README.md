@@ -1,7 +1,3 @@
-# 와플스튜디오 토이프로젝트 10조
-
-팀명: eTL 너무십조 ㅋㅋ
-
 ## ⭐️ About the Project
 
 <img src="./src/resources/eTL_logo.png" width="540px"/>
